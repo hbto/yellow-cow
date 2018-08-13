@@ -1,0 +1,8 @@
+[submodule "fb_connector"]
+	path = fb_connector
+	url = git@github.com:hbto/fb_connector.git
+	branch = 11.0
+[submodule "odoo-peru"]
+	path = odoo-peru
+	url = git@git.vauxoo.com:vauxoo/odoo-peru.git
+	branch = 11.0
