@@ -2,3 +2,7 @@
 	path = fb_connector
 	url = git@github.com:hbto/fb_connector.git
 	branch = 11.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:Vauxoo/mexico.git
+	branch = 12.0
